@@ -1,18 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:12.353537
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:51
 #+TITLE: 白救度佛母讚
 #+PROPERTY: CBETA_ID T20n1109
 #+PROPERTY: ID KR6j0319
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1109
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0319_T_000-0484a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0319_T_001-0484a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1109¶
+No. 1109¶
 ¶
 
 ¶
@@ -23,8 +23,7 @@ No.1109¶
 ¶
 ¶
 ¶
-
- 白救度佛母讚¶
+白救度佛母讚¶
 ¶
 北京淨住寺住持阿旺扎什譯¶
 
@@ -32,9 +31,9 @@ No.1109¶
 
 #+BEGIN_VERSE
 「　唵救度輸迴答(阿)哷母¶
-　以都(答)答(阿)哷脫八難
+　以都(答)答(阿)哷脫八難」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　一切病愆都哷救
@@ -85,9 +84,9 @@ No.1109¶
 　所為我等修道時
 　從此以往至菩提¶
 　消除其中諸逆緣
-　願於順緣獲豐足
+　願於順緣獲豐足」
 #+END_VERSE
-」¶
+¶
 
 唵答(阿)哷都(答)答(阿)哷都(哷)嘛嘛阿俞(喇)逋¶
 (吶)葉(雜尼鴉阿)納逋(斯)真沽嚕葉娑訶(此呪遵御製大藏全¶
